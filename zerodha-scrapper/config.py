@@ -1,0 +1,5 @@
+user_id = ""
+password = ""
+pin = ""
+api_key = ""
+api_secret = ""
